@@ -6,7 +6,7 @@
 
 <h2 class = "animate__animated animate__zoomIn" >
 
-Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm Aryan!!
+Hey <img src="https://github.com/Aryan-Satija/AryanSatija/blob/main/Hi.gif" width="30px">, I'm Aryan!!
 
 </h2>
 
@@ -16,7 +16,7 @@ Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif"
 
 Hey, My Name is Aryan Satija, I'm a 2nd year IT student at NSUT, Delhi. I am a Tech Enthusiast. Looking forward to learning new skills and add them to the list.
 
-<img src="https://raw.githubusercontent.com/parth-27/parth-27/master/dev.gif">
+<img src="https://github.com/Aryan-Satija/AryanSatija/blob/main/dev.gif">
 
 ## Coding Profiles
 
