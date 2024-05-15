@@ -28,6 +28,10 @@ Hey, My Name is Aryan Satija, I'm a 2nd year IT student at NSUT, Delhi. I am a T
   <img  alt="Aryan's Codeforces Profile" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 </a>
 
+<a href="https://leetcode.com/u/__ARYAN1__/">
+  <img  alt="Aryan's Codeforces Profile" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+
 <hr/>
 
 ## <strong>My Tech Stack</strong>
@@ -96,20 +100,44 @@ Hey, My Name is Aryan Satija, I'm a 2nd year IT student at NSUT, Delhi. I am a T
 <img src="https://img.shields.io/badge/tailwindcss-%231572B6.svg?&style=for-the-badge&logo==tailwindcss&logoColor=blue"/>
 </a>
 
-<a href="https://www.markdownguide.org/">
+<a href="https://www.typescriptlang.org/">
 <img src="https://img.shields.io/badge/git%20-%92239163.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </a>
 
-<a href="https://www.markdownguide.org/">
+<a href="https://nextjs.org/">
 <img src="https://img.shields.io/badge/Next.js-%23323330.svg?&style=for-the-badge&logo==Next&logoColor=blue"/>
 </a>
 
-<a href="https://www.markdownguide.org/">
+<a href="https://expressjs.com/">
 <img src="https://img.shields.io/badge/express%20-%23323330.svg?&style=for-the-badge&logo=express&logoColor=white"/>
 </a>
 
-<a href="https://www.markdownguide.org/">
-<img src="https://img.shields.io/badge/express%20-%231572B6.svg?&style=for-the-badge&logo=vite&logoColor=yellow"/>
+<a href="https://vitejs.dev/">
+<img src="https://img.shields.io/badge/vite%20-%231572B6.svg?&style=for-the-badge&logo=vite&logoColor=yellow"/>
+</a>
+
+<a href="https://pandas.pydata.org/">
+<img src="https://img.shields.io/badge/pandas%20-%23000000.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
+</a>
+
+<a href="https://numpy.org/">
+<img src="https://img.shields.io/badge/numpy%20-%2300599C.svg?&style=for-the-badge&logo=numpy&ogoColor=white"/>
+</a>
+
+<a href="https://matplotlib.org/">
+<img src="https://img.shields.io/badge/matplotlib%20-%231572B6.svg?&style=for-the-badge&logo=matplotlib&logoColor=white"/>
+</a>
+
+<a href="https://seaborn.pydata.org/">
+<img src="https://img.shields.io/badge/seaborn%20-%23E34F26.svg?&style=for-the-badge&logo=seaborn&logoColor=white"/>
+</a>
+
+<a href="https://streamlit.io/">
+<img src="https://img.shields.io/badge/streamlit%20-%23593d88.svg?&style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
+
+<a href="https://flask.palletsprojects.com/en/3.0.x/">
+<img src="https://img.shields.io/badge/flask%20-%23121011.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
 </a>
 
 <hr>
