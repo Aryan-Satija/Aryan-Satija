@@ -16,7 +16,7 @@ Hey <img src="https://github.com/Aryan-Satija/AryanSatija/blob/main/Hi.gif" widt
 
 Hey, My Name is Aryan Satija, I'm a 2nd year IT student at NSUT, Delhi. I am a Tech Enthusiast. Looking forward to learning new skills and add them to the list.
 
-<img src="https://github.com/Aryan-Satija/AryanSatija/blob/main/dev.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
 
 ## Coding Profiles
 
@@ -170,3 +170,5 @@ Hey, My Name is Aryan Satija, I'm a 2nd year IT student at NSUT, Delhi. I am a T
 </div>
 
 <h3>Thanks for Stopping by!! 😊</h3>
+
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>
